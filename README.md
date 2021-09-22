@@ -33,14 +33,17 @@ Semanic classes of the Drone Dataset
 
 # Model Loss
 I've stopped training since it take much time 
+
 ![Loss](https://user-images.githubusercontent.com/31994329/134434972-4c9e94b0-f61a-4fca-8cb3-a28a38b1dda6.png)
 
 # Model Accuracy
-I've stopped training since it take much time 
+I've stopped training since it take much time
+
 ![Accuracy](https://user-images.githubusercontent.com/31994329/134435007-4ae6bdb7-5819-444e-a47a-c8ee957742e6.png)
 
 # Model Prediction
-I've stopped training since it take much time 
+I've stopped training since it take much time
+
 ![Pred](https://user-images.githubusercontent.com/31994329/134435156-1d2b578d-bc6e-4b8d-8f76-92c94e563a7a.png)
 
 
