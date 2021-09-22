@@ -12,14 +12,18 @@ Semanic classes of the Drone Dataset
 7- pool            
 8- vegetation                      
 9- roof                  
-
-10- wall      11- window     12- door
-
-13- fence     14- fence-pole  15- person
-
-16- dog       17- car         18- bicycle
-
-19- tree     20- bald-tree    21- ar-marker
-
-22- obstacle    23- conflicting
+10- wall                
+11- window                    
+12- door              
+13- fence            
+14- fence-pole               
+15- person           
+16- dog           
+17- car               
+18- bicycle              
+19- tree                  
+20- bald-tree             
+21- ar-marker               
+22- obstacle                
+23- conflicting                 
 
