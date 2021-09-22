@@ -1,51 +1,51 @@
 # Aerial-Semantic-Segmentation-Drone
 Aerial Semantic Segmentation Drone Dataset from kaggle
 
-Semanic classes of the Drone Dataset
+Semanic classes of the Drone Dataset 
 
-paved-area
+1- paved-area
 
-dirt
+2- dirt
 
-grass
+3- grass
 
-gravel
+4- gravel
 
-water
+5- water
 
-rocks
+6- rocks
 
-pool
+7- pool
 
-vegetation
+8- vegetation
 
-roof
+9- roof
 
-wall
+10- wall
 
-window
+11- window
 
-door
+12- door
 
-fence
+13- fence
 
-fence-pole
+14- fence-pole
 
-person
+15- person
 
-dog
+16- dog
 
-car
+17- car
 
-bicycle
+18- bicycle
 
-tree
+19- tree
 
-bald-tree
+20- bald-tree
 
-ar-marker
+21- ar-marker
 
-obstacle
+22- obstacle
 
-conflicting
+23- conflicting
 
