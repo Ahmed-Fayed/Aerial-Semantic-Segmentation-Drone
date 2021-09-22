@@ -3,9 +3,9 @@ Aerial Semantic Segmentation Drone Dataset from kaggle
 
 Semanic classes of the Drone Dataset 
 
-1- paved-area  
-2- dirt 
-3- grass
+1- paved-area
+2- dirt
+3- grass           
 4- gravel
 5- water   6- rocks
 
