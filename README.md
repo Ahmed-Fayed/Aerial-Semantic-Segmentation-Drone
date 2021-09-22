@@ -31,3 +31,5 @@ Semanic classes of the Drone Dataset
 
 ![new plot2](https://user-images.githubusercontent.com/31994329/134433675-2ddeb352-c003-4560-be51-87b5a1a113d2.png)
 
+# Model Performance per Epoch (Using CSVLogger Callback)
+[train_performance_per_epoch.csv](https://github.com/Ahmed-Fayed/Aerial-Semantic-Segmentation-Drone/files/7214326/train_performance_per_epoch.csv)
