@@ -27,3 +27,7 @@ Semanic classes of the Drone Dataset
 22- obstacle                
 23- conflicting                 
 
+# Visualizing Dataset
+
+![new plot2](https://user-images.githubusercontent.com/31994329/134433675-2ddeb352-c003-4560-be51-87b5a1a113d2.png)
+
